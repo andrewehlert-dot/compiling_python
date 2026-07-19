@@ -1,4 +1,4 @@
-#compile-python
+# compile-python
 This is a repo for compiling and installing python
 
 ## Compile Python and Create VirtualEnv with It
@@ -13,7 +13,7 @@ This is a repo for compiling and installing python
 
 './configure --enable-optimizations'
 
-# Saturate all 16 cores while using the make command
+### Saturate all 16 cores while using the make command
 
 'make -j 16'
 
