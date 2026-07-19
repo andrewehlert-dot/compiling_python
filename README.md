@@ -17,4 +17,4 @@ This is a repo for compiling and installing python
 
 'make -j 16'
 
-'sudo make alt install'
+'sudo make altinstall'
